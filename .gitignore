@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+programasC/programas/.vscode/c_cpp_properties.json
+programasC/programas/.vscode/launch.json
+programasC/programas/.vscode/settings.json
