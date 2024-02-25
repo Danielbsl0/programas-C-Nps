@@ -53,3 +53,6 @@ dkms.conf
 programasC/programas/.vscode/c_cpp_properties.json
 programasC/programas/.vscode/launch.json
 programasC/programas/.vscode/settings.json
+programasC/.vscode/c_cpp_properties.json
+programasC/.vscode/launch.json
+programasC/.vscode/settings.json
