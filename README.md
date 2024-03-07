@@ -1,2 +1,2 @@
-# programas-C-Nps
- Programas criando durante o curso de C da Nps Academy
+# programas-C-Neps
+ Programas criados durante o curso de C da Neps Academy
