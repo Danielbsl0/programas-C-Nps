@@ -6,6 +6,11 @@ int main(){
     }
     scanf("%d", &x);
     for (i=0;i<10;i++){
-        
+        if (n[i] == x){
+            printf("SIM");
+            break;
+        }else if (n[i] != x && i == 9){
+            printf("NAO");
+        }
     }
 }
