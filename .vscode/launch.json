@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/helen/Documents/meusProjetos/programas-C-Nps/programasC/exercicios",
-      "program": "c:/Users/helen/Documents/meusProjetos/programas-C-Nps/programasC/exercicios/build/Debug/outDebug",
+      "cwd": "c:/Users/helen/Documents/meusProjetos/programas-C-Nps/programasC/programas",
+      "program": "c:/Users/helen/Documents/meusProjetos/programas-C-Nps/programasC/programas/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
